@@ -25,28 +25,12 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
 <img align="right" height="250" src="https://c.tenor.com/ffGDkqKAkgMAAAAC/tenor.gif"  />
-
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kronjuvel1&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kronjuvel1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kronjuvel1&radius=16&theme=monokai&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <a href="https://open.spotify.com/user/qlufgm9g8ah7bfu9ss80hfsx7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qlufgm9g8ah7bfu9ss80hfsx7&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
