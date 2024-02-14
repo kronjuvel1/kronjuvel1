@@ -24,7 +24,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-<br clear="both">
-
-<img align="right" height="250" src="https://c.tenor.com/ffGDkqKAkgMAAAAC/tenor.gif"  />
