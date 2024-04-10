@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I'm Roberto Santos, also known as Kronjuvel.dev, I'm currently learning React and NextJS.</h2>
+<h2 align="center">I'm Roberto Santos, also known as Nights.dev, I'm currently learning React and NextJS.</h2>
 
 ###
 
