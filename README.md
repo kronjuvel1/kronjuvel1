@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="center">I'm Roberto Santos, also known as Kronjuvel.dev, I'm currently learning React and NextJS.</h2>
+<h2 align="center">I'm Roberto Santos, also known as Kronjuvel.dev.</h2>
 
 ###
 
-<h6 align="center">I love designing websites, building them from the ground up using the latest technologies, and showcasing them to the world!</h6>
+<h5 align="center">I love web development and data analysis.</h5>
 
 ###
 
