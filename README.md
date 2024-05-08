@@ -1,8 +1,4 @@
-<h1 align="center">Hello there!</h1>
-
-###
-
-<h2 align="center">I'm Roberto Santos, also known as Kronjuvel.dev.</h2>
+<h1 align="center">Hello there! I'm Roberto Santos, also known as Kronjuvel.dev. </h1>
 
 ###
 
