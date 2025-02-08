@@ -1,4 +1,4 @@
-<div align="center" style="gap: 1">
+<div align="center" style="gap: 10">
   <a href="https://www.facebook.com/butbubutbut" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="52" alt="facebook logo"  />
   </a>
