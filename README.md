@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center" style="gap: 1">
   <a href="https://www.facebook.com/butbubutbut" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="52" alt="facebook logo"  />
-  </a> <br>
+  </a>
   <a href="https://www.linkedin.com/in/robertosantos-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="52" alt="linkedin logo"  />
   </a>
